@@ -6,7 +6,6 @@ AtCoder を中心とした競技プログラミング用の自作ライブラリ
 ## Languages
 
 * Python
-* C++
 
 ## Library
 

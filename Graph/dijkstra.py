@@ -1,3 +1,4 @@
+# https://github.com/Mitsuharu-YAMAURA/competitive-programming-library
 import heapq
 
 # グラフは(頂点番号，重み)の順番
