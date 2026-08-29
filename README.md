@@ -1,7 +1,7 @@
 # Competitive Programming Library
 
 AtCoder を中心とした競技プログラミング用の自作ライブラリです。
-32BACH1(https://atcoder.jp/users/32BACH1)がコンテスト中に利用するアルゴリズム・数学系の処理などをまとめています。
+32BACH1(https://atcoder.jp/users/32BACH1) がコンテスト中に利用するアルゴリズム・数学系の処理などをまとめています。
 
 ## Languages
 
