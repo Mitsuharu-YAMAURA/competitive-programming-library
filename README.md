@@ -21,7 +21,7 @@ AtCoder を中心とした競技プログラミング用の自作ライブラリ
 
 ### Math
 
-
+* Factorial
 * Combination
 <!-- 後で作る
 * Modular Arithmetic
@@ -35,16 +35,6 @@ AtCoder を中心とした競技プログラミング用の自作ライブラリ
 * Sliding Window
 * Run Length Encoding
 -->
-
-## Directory Structure
-
-```text
-.
-├── Graph
-├── math
-├── LICENSE
-└── README.md
-```
 
 
 ## Notes
