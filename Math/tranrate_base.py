@@ -10,6 +10,3 @@ def basen(x, n):
     if x != 0:
         answer.append(x)
     return answer[::-1]
-
-
-print(basen(11, 2))
