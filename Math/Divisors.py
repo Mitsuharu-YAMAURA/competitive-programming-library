@@ -13,6 +13,6 @@ def Divisors(n):
             if n // i != i:
                 upper.append(n // i)
             lower.append(i)
-    i += 1
+        i += 1
 
     return lower + upper[::-1]
